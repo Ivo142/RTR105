@@ -1,6 +1,5 @@
     1  VirtualBox --startvm XP
     2  quartus
-    3  firefor &
     4  firefox &
     5  uname
     6  clear
@@ -17,11 +16,8 @@
    17  pwd
    18  man pwd
    19  ls
-   20  ls _l
    21  ls -l
    22  ls -a
-   23  la -ea
-   24  ls -ea
    25  ls -la
    26  history
    27  history > history_20180904.txt
