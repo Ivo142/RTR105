@@ -17,4 +17,5 @@
 * ls -a - Parāda visus esošos vailus un mapes kas atrodas sistēmā
 * ls -la - Parāda katras mapes un faila informāciju un piekļuves iespējas
 * history - Parāda lietoto komandu vēsturi
+* echo - parada tekstu uz galvenas izvadiekartas
 
