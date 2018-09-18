@@ -18,4 +18,8 @@
 * ls -la - Parāda katras mapes un faila informāciju un piekļuves iespējas
 * history - Parāda lietoto komandu vēsturi
 * echo - parada tekstu uz galvenas izvadiekartas
-
+* echo -e "mkdir mape\ncd mape" > create_in.sh - pievienot kādu konkrētu komandu kādam skriptam
+* whereis XXX - parāda kāda konkrēta faila atrašanās vietu sistēmā
+* echo $PATH - parāda visus iespējamos ceļus no kuriem ir iespējams izpildīt komandas.
+* chmod XXX - maina kāda konkrēta faila pieejas tiesības
+* 
