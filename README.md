@@ -22,4 +22,10 @@
 * whereis XXX - parāda kāda konkrēta faila atrašanās vietu sistēmā
 * echo $PATH - parāda visus iespējamos ceļus no kuriem ir iespējams izpildīt komandas.
 * chmod XXX - maina kāda konkrēta faila pieejas tiesības
-* 
+* PATH=$PATH:~/mape - pievienot pie ceļiem kādu noteiktu direktoriju
+* python - izmantot prog. val. python
+* ipython - izmantot prog. val. ipython
+* idle - izmantot prog. shell IDLE
+* vars() - parāda visas izmantojamas komantas(IDLE, python, ipython
+* a = XX - nomaina kada simbole vērtību uz kādu noteiktu skaitli.
+* __doc__ - parada informaciju par kadu no komandam.
