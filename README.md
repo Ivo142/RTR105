@@ -29,3 +29,5 @@
 * vars() - parāda visas izmantojamas komantas(IDLE, python, ipython
 * a = XX - nomaina kada simbole vērtību uz kādu noteiktu skaitli.
 * __doc__ - parada informaciju par kadu no komandam.
+*ssh_-X_x181REB303@213.175.92.22
+
