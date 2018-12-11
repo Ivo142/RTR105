@@ -31,3 +31,4 @@
 * __doc__ - parada informaciju par kadu no komandam.
 *ssh_-X_x181REB303@213.175.92.22
 
+http://dotsgame.co/lobby/04eee9c5-4b31-4ec6-a69b-f9057698d336
