@@ -1,18 +1,18 @@
 dialoga režīms ar lietotāju - Class 5
-zīmēšana ar matplotlib vai gnuplot
-vienas/vairāku sakņu meklēšana
+zīmēšana ar matplotlib vai gnuplot - https://matplotlib.org/users/pyplot_tutorial.html
+vienas/vairāku sakņu meklēšana - class 16
 rezultātu formatēta attēlošana uz ekrāna
 rezultātu ieraksts failā
 skaitļu kopas vidējās aritmētiskās vērtības aprēķins
-skaitļu kopas mediānas aprēķins
-skaitļu kopas vidējās kvadrātiskās novirzes aprēķins
-datu nolasīšana no faila
-gadījumu skaitļu ģenerēšana
-skaitļu kopas kārtošana
-skaitļu kopas maksimālās vērtības noteikšana
-skaitļu kopas minimālās vērtības noteikšana
+skaitļu kopas mediānas aprēķins - https://medium.com/programminginpython-com/python-program-to-find-average-of-n-numbers-6c6010d151d9
+skaitļu kopas vidējās kvadrātiskās novirzes aprēķins - 
+datu nolasīšana no faila - https://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
+gadījumu skaitļu ģenerēšana - https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
+skaitļu kopas kārtošana - https://ubuntuforums.org/showthread.php?t=848141   https://thispointer.com/python-how-to-sort-a-list-of-strings-list-sort-tutorial-examples/
+skaitļu kopas maksimālās vērtības noteikšana - https://www.tutorialspoint.com/python/string_max.htm 
+skaitļu kopas minimālās vērtības noteikšana - https://www.tutorialspoint.com/python/string_min.htm
 šifrēšana ar XOR operāciju - skat. Class 20
-simbolu rindas analīze
-laukuma aprēķins
+simbolu rindas analīze - https://www.pythonforbeginners.com/basics/string-manipulation-in-python
+laukuma aprēķins - 
 4 ciparu skaitļi - kombinācijas
 kompleksie skaitļi - Class 15
